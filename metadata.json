@@ -1,0 +1,8 @@
+{
+  "name": "La Petite Conciergerie d'Indya",
+  "description": "Conciergerie de proximité et gestion locative courte durée haut de gamme à Gaillard, Annemasse et en Haute-Savoie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
